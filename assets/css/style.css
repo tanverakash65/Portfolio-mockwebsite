@@ -548,3 +548,20 @@ position: relative;
   margin-top: 3.75rem;
   text-align: center;
 }
+
+@media screen and (max-width: 1200px) {
+}
+
+@media screen and (max-width: 992px) {
+}
+
+/* for medium devices */
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 576px) {
+}
+
+/* for small devices */
+@media screen and (max-width: 350px) {
+}
