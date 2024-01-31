@@ -549,10 +549,18 @@ position: relative;
   text-align: center;
 }
 
+/* Media Queries for Responsive Design */
 @media screen and (max-width: 1200px) {
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 }
 
 @media screen and (max-width: 992px) {
+  .nav__list {
+    column-gap: 2rem;
+  }
 }
 
 /* for medium devices */
